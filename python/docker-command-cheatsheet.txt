@@ -138,3 +138,6 @@ docker scout cves local://python-server:v1
 
 docker build --no-cache -t python-server:v2 .
 
+*** Docker Extensions Demo ***
+
+https://www.docker.com/developers/sdk/
